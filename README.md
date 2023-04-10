@@ -1,0 +1,2 @@
+# 009_functionality_fullcrudaspnetcore_ado
+009_functionality_fullcrudaspnetcore_ado
